@@ -254,7 +254,7 @@
   "Eska Club"                        = "http://waw.ic.smcdn.pl/t004-1.mp3?timestamp=1530360302&hash=22c2bbc2340f695c6edf906452d8517d"
   "Europa 2"                         = "http://pool.cdn.lagardere.cz/fm-europa2sk-128"
   "Europa FM"                        = "http://icecast-streaming.nice264.com/europafmback"
-  "EuropaPlus"                       = "http://77.91.77.82:8030/ep128"
+  "EuropaPlus"                       = "http://217.20.173.105:8100/live"
   "European Hit Radio"               = "http://82.135.234.195:8000/ehr.mp3"
   "EuroTruckRadio"                   = "http://radio.eurotruckradio.co.uk:8000/stream"
   "Evropa2"                          = "http://pool.cdn.lagardere.cz/fm-evropa2-128"
