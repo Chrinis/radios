@@ -606,6 +606,7 @@
   "Pinguin Radio"                    = "http://37.247.41.55/po192/;stream.mp3"
   "Planet Rock"                      = "http://live-bauer-mz.sharp-stream.com/planetrock.mp3"
   "PlanetRadio"                      = "http://streams.planetradio.de/planetradio/mp3/hqlivestream.m3u"
+  "Planeta FM Retro"                 = "http://pla.cdn.eurozet.pl/PLAOLD.mp3"
   "Planeta FM Trance"                = "http://pla.cdn.eurozet.pl/PLATRA.mp3"
   "Play.cz"                          = "http://icecast5.play.cz/radiobeat128.mp3"
   "Play Radio RS"                    = "http://stream.playradio.rs:8001/play.mp3"
