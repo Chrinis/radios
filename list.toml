@@ -406,7 +406,7 @@
   "Imperium Of Fire"                 = "http://5.196.64.74:5468/listen.m3u"
   "Impreza PL"                       = "http://gr-relay-16.gaduradio.pl/12"
   "INITIAL D World"                  = "http://go2id.net/listen.pls"
-  "Inselradio Mallorca               = "http://stream.live-inselradio.com:8000/listen.pls"
+  "Inselradio Mallorca"              = "http://stream.live-inselradio.com:8000/listen.pls"
   "Internet of Music"                = "http://radio.internetofmusic.com:8000/live.nsv"
   "IRadio"                           = "http://185.105.4.252:8090/iradioneweb"
   "Iraqi Mix Radio"                  = "http://64.71.79.181:8012"
