@@ -1,16 +1,16 @@
 #[macro_use] extern crate serde_derive;
 
+mod list;
+mod model;
+
+pub use list::RadioList;
+pub use model::{RawList, Station};
+
 use std::collections::HashMap;
 use toml::de::Error as TomlDeError;
 
-#[derive(Deserialize)]
-struct List {
-    #[serde(rename = "radioStations")]
-    radio_stations: HashMap<String, String>,
-}
-
 pub fn all() -> Result<HashMap<String, String>, TomlDeError> {
-    let list = toml::from_slice::<List>(include_bytes!("../list.toml"))?;
+    let list = toml::from_slice::<RawList>(include_bytes!("../list.toml"))?;
 
     Ok(list.radio_stations)
 }
