@@ -1192,4 +1192,4 @@
   "ZET PL"                           = "http://zet01.cdn.eurozet.pl:8446/ZETPL1.mp3"
   "ZET Rock"                         = "http://zet01.cdn.eurozet.pl:8448/ZETROK.mp3"
   "ZetlandFM"                        = "http://s4.voscast.com:8288/;stream1505068493685/1"
-  "Zip FM" = "http://84.46.205.13/zipfm128.mp3"
+  "Zip FM"                           = "http://84.46.205.13/zipfm128.mp3"
